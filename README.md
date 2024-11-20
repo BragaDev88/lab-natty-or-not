@@ -21,21 +21,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Its real or not ?
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Meu projeto foi criado e inspirado nas animações do professor Venilton, uma breve brincadeira com as IA's falantes.
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+D-ID (Criação de avatares)
+Canva (edição e cortes)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+1°- Tirei uma foto minha para criação do avatar, no site D-ID
+2°- Fiz toda parte de recorte, tanto da imagem de fundo quanto minha foto no formato PNG
+3°- Adicionei movimentos naturais e expressões no avatar IA
+4°- Gravei o áudio das vozes, tanto minha quanto do robô
+5°- Tentei conciliar dois vídeos em um só, o melhor possível!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.youtube.com/watch?v=xU_OLdY7VJ4
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito legal, antes de iniciar os estudos sobre IAs, nunca imaginei que isso seria possível.
 ```
 
 ### Exemplos e Insigths
